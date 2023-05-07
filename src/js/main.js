@@ -1,5 +1,5 @@
-//import '../css/index.css'
-import "../scss/spruce.scss";
+import '../css/index.css'
+//import "../scss/spruce.scss";
 import "../scss/style.scss";
 
 import javascriptLogo from "../assets/javascript.svg";
